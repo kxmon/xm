@@ -1,0 +1,18 @@
+[
+	{
+		"id" : "123479",
+		"name" : "汾酒贵宾窖藏特惠组",
+		"src" : "2.jpg",
+		"price" : "598",
+		"shenqian":"0"
+	},
+	{
+		"id" : "shop08",
+		"name" : "小米8",
+		"src" : "8.jpg",
+		"price" : "999",
+		"count":"1",
+		"shenqian":"0"
+	}
+]
+	
